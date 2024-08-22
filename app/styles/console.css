@@ -1,0 +1,180 @@
+.two-fa-enforcement-alert svg.fa-triangle-exclamation {
+    font-size: 2.25rem;
+    padding-right: 0.5rem;
+    color: rgb(202 138 4);
+}
+
+.btn.btn-warning-alert.btn-warning,
+.two-fa-enforcement-alert button#two-fa-setup-button.btn.btn-warning body[data-theme='dark'] .btn.btn-warning-alert.btn-warning,
+body[data-theme='dark'] .two-fa-enforcement-alert button#two-fa-setup-button.btn.btn-warning {
+    background-color: rgb(202 138 4);
+    border-color: rgb(161 98 7);
+    color: rgb(254 249 195);
+    cursor: default;
+}
+
+.app-version-in-nav {
+    display: flex;
+    align-items: center;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    padding-left: 1rem;
+    padding-top: 0.2rem;
+}
+
+.fleetbase-pagination-meta-info-wrapper.within-layout-section-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;
+    flex: 1;
+}
+
+.without-padding {
+    padding: 0 !important;
+}
+
+.without-padding-y {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.without-padding-x {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+body.console-admin-organizations-index-index .next-table-wrapper > table {
+    table-layout: auto;
+}
+
+.btn-primary {
+    background-color: #00693e !important;
+    border-color: #355e3b !important;
+
+    /* Modern color-function notation and alpha-value notation */
+    --tw-border-opacity: 10%; /* Adjusted from "0.1" to "10%" */
+    
+    border-color: rgba(17, 24, 39, var(--tw-border-opacity));
+    --tw-shadow-color: rgba(0, 0, 0, 0.1);
+    /* Define variable for shadow color */
+    --tw-shadow: 0 1px 3px 0 rgba(122, 190, 132, 0.1), 0 1px 2px -1px rgba(190, 213, 196, 0.1);
+    box-shadow:
+        var(--tw-ring-offset-shadow, 0 0 transparent),
+        var(--tw-ring-shadow, 0 0 transparent),
+        var(--tw-shadow),
+        0 2px 4px rgba(171, 207, 151, 0.1);
+    /* Combined box-shadow */
+    color: white;
+    transition:
+        background-color 0.3s,
+        border-color 0.3s,
+        color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #3aa173 !important;
+    /* Darker shade for hover */
+    border-color: #25ab6e !important;
+    /* Darker border color for hover */
+    color: #e0e0e0;
+    /* Lighter text color on hover */
+}
+
+#ops-map-view-button.active {
+    background-color: #018749 !important;
+}
+
+#ops-table-view-button.active {
+    background-color: #018749 !important;
+}
+
+#ops-kanban-view-button.active {
+    background-color: #018749 !important;
+}
+
+.fleetbase-loader {
+    border: 3px solid rgba(1, 84, 62, 1) !important;
+    border-bottom-color: rgba(28, 172, 120, 1) !important;
+}
+
+.overloader > .loader-container {
+    background: rgba(1, 59, 43, 0.775) !important;
+    border: 1px solid #1c2d1e !important;
+    backdrop-filter: blur(3.5px);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.85rem;
+}
+
+.text-green-500 {
+    color: #018749 !important;
+}
+
+.text-green-800 {
+    --tw-text-opacity: 1;
+    color: rgb(17, 71, 43);
+    color: rgb(1, 155, 76);
+}
+
+.active {
+    background-color: #018749 !important;
+}
+
+a:hover {
+    background-color: #018749 !important;
+    --tw-border-opacity: 1;
+    border-color: rgba(17, 24, 39, var(--tw-border-opacity));
+    --tw-shadow: 0 1px 3px 0 rgba(84, 122, 86, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+    box-shadow:
+        0 0 transparent,
+        0 0 transparent,
+        0 1px 3px 0 rgba(0, 0, 0, 0.1),
+        0 1px 2px -1px rgba(0, 0, 0, 0.1);
+}
+
+.no-hover-bg:hover {
+    background-color: transparent !important;
+}
+
+.span:hover {
+    background-color: #018749 !important;
+    --tw-border-opacity: 1;
+    border-color: rgba(17, 24, 39, var(--tw-border-opacity));
+    --tw-shadow: 0 1px 3px 0 rgba(84, 122, 86, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+    box-shadow:
+        0 0 transparent,
+        0 0 transparent,
+        0 1px 3px 0 rgba(0, 0, 0, 0.1),
+        0 1px 2px -1px rgba(0, 0, 0, 0.1);
+}
+
+.next-content-panel-header:hover {
+    background-color: #018749 !important;
+    --tw-border-opacity: 1;
+    border-color: rgba(17, 24, 39, var(--tw-border-opacity));
+    --tw-shadow: 0 1px 3px 0 rgba(84, 122, 86, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+    box-shadow:
+        0 0 transparent,
+        0 0 transparent,
+        0 1px 3px 0 rgba(0, 0, 0, 0.1),
+        0 1px 2px -1px rgba(0, 0, 0, 0.1);
+}
+
+.fa-spinner-third {
+    color: #25ab6e !important;
+    /* Ensure the color is applied globally */
+}
+
+a.navbar-logo {
+    background-color: transparent !important;
+}
+
+.rounded-full {
+    background-color: #018749 !important;
+    outline: 0.2px solid #e0e0e0;
+    /* Example outline: 2px width, solid style, black color */
+}

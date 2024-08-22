@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 812 137" style="enable-background:new 0 0 812 137;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#185189;stroke-miterlimit:10;}
+	.st1{fill:#023030;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Poppins-SemiBold';}
+	.st4{font-size:40.3194px;}
+	.st5{fill:#7FD99A;}
+	.st6{font-family:'Poppins-ExtraBold';}
+	.st7{font-size:39.0764px;}
+	.st8{fill:#023030;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st9{font-family:'Poppins-Bold';}
+	.st10{font-size:124.6259px;}
+	.st11{letter-spacing:3;}
+</style>
+<path class="st0" d="M110.9,424.7c0,0-30.1-0.6-48.4,18.3l-4.9-4.9c0,0,17.2-18.7,53.3-20.5C110.9,417.6,110.9,424.7,110.9,424.7z"
+	/>
+<g>
+	<g>
+		<path class="st1" d="M0,10C0,4.5,4.5,0,10,0h117c5.5,0,10,4.5,10,10v117c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V10z"/>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 16.8633 55.8403)" class="st2 st3 st4">lipa</text>
+		<text transform="matrix(1.0325 0 0 1 17.0967 98.2881)" class="st5 st6 st7">gas</text>
+		<g>
+			<rect x="85.1" y="111.8" class="st2" width="22.8" height="5.3"/>
+			<polygon class="st2" points="104.2,103.9 97.6,103.9 106.4,114.6 97.6,125.1 104.2,125.1 112.7,114.6 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 212.3 102.9119)" class="st8 st9 st10 st11">lipagas</text>
+</svg>
